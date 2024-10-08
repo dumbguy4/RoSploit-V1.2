@@ -1,0 +1,12 @@
+C:\Users\mumut\source\repos\RoSploit X\RoSploit X\bin\Debug\RoSploit X.exe.config
+C:\Users\mumut\source\repos\RoSploit X\RoSploit X\bin\Debug\RoSploit X.exe
+C:\Users\mumut\source\repos\RoSploit X\RoSploit X\bin\Debug\RoSploit X.pdb
+C:\Users\mumut\source\repos\RoSploit X\RoSploit X\bin\Debug\FastColoredTextBox.dll
+C:\Users\mumut\source\repos\RoSploit X\RoSploit X\obj\Debug\RoSploit X.csproj.AssemblyReference.cache
+C:\Users\mumut\source\repos\RoSploit X\RoSploit X\obj\Debug\RoSploit_X.Form1.resources
+C:\Users\mumut\source\repos\RoSploit X\RoSploit X\obj\Debug\RoSploit_X.Properties.Resources.resources
+C:\Users\mumut\source\repos\RoSploit X\RoSploit X\obj\Debug\RoSploit X.csproj.GenerateResource.cache
+C:\Users\mumut\source\repos\RoSploit X\RoSploit X\obj\Debug\RoSploit X.csproj.CoreCompileInputs.cache
+C:\Users\mumut\source\repos\RoSploit X\RoSploit X\obj\Debug\RoSploit X.csproj.Up2Date
+C:\Users\mumut\source\repos\RoSploit X\RoSploit X\obj\Debug\RoSploit X.exe
+C:\Users\mumut\source\repos\RoSploit X\RoSploit X\obj\Debug\RoSploit X.pdb
